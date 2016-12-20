@@ -1,0 +1,19 @@
+{
+  "name": "node-walker-bot-v3",
+  "version": "1.0.0",
+  "description": "Third major iteration on walker bot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Allbright",
+  "license": "MIT",
+  "dependencies": {
+    "firmata": "^0.14.1",
+    "johnny-five": "^0.10.6",
+    "udp-serial": "^0.2.0"
+  },
+  "engines" : {
+    "node" : ">=7.2.0"
+  }
+}
