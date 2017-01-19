@@ -1,5 +1,12 @@
 ## Walker Bot V3
 (TODO: Acquire git hosted image of quad walker bot posed)
+(TODO: Green Bot Image PNG)
+(TODO: Red Bot Image PNG)
+(TODO: Black Bot Image PNG)
+(TODO: Blue Bot Image PNG)
+(TODO: Orange Bot Image PNG)
+
+Five robot frames have been created to start off the third redesign of the Walker Bot series.
 
 This is the third major iteration over a walker-bot project I've been working on.  The major benefits of this major update is...
 
@@ -21,6 +28,7 @@ Upcoming goals:
       - [x] Personal supply
     - GPS (modules to generate run-time sensor data to send over GPC/Arduino connection)
     - Smallest SD card reader/writer (for larger memory storage during process live time to ensure logs are always kept during operation.  Reconnecting should once again sync logs with the robot being the ultimate source of truth)
+-   __***Maintain***__ bots (production?) through __***Operations***__ completed from a desk __***3D Printer***__ with __***Heated Pad***__ converting either __***PLA Plastic***__ (lower melting point and more malleable) or __***ABS Plastic***__ (stronger material)
 
 
 ### Instructions on how to set up
@@ -35,6 +43,8 @@ Random Resources:
 1. http://wifinodebot.blogspot.com/2016/02/flashing-esp8266-firmware.html
 
 1. http://www.arduinesp.com/getting-started
+
+1. https://www.3dhubs.com/knowledge-base/pla-vs-abs-whats-difference
 
 ### Physical Build Tasks
 Two instructional guides
