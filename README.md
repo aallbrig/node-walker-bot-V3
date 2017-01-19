@@ -12,7 +12,13 @@ Upcoming goals:
 
 
 ### Instructions on how to set up
-These instructions are based on [this gist explanation](https://gist.github.com/ajfisher/5fe60fe7d8c49b3223f0).
+These instructions are based on [this gist explanation](https://gist.github.com/ajfisher/5fe60fe7d8c49b3223f0) or [this gist explanation](https://gist.github.com/ajfisher/1fdbcbbf96b7f2ba73cd).
+
+http://fab.cba.mit.edu/classes/863.14/tutorials/Programming/serialwifi.html
+
+https://github.com/guyz/pyesp8266
+
+http://wifinodebot.blogspot.com/2016/02/flashing-esp8266-firmware.html
 
 1. Acquire ESP8266 (they are _very_ cheap) ([datasheet](http://download.arduino.org/products/UNOWIFI/0A-ESP8266-Datasheet-EN-v4.3.pdf))
 1. Download a couple python scripts ([esptool.py](https://github.com/espressif/esptool), [esptool-ck](https://github.com/igrr/esptool-ck))
